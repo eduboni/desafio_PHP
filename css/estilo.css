@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(241, 247, 241);
+}
+div {
+    background-color: rgb(202, 198, 198);
+    width: 30%;
+    height: 400px;
+    margin: auto;
+    border: rgb(92, 91, 91) solid 1px;
+    box-sizing: border-box;
+    margin-top:100px;
+}
+
+.cadastro {
+    width: 50%;
+    height: 600px;
+    background-color: rgb(202, 198, 198);
+    margin: auto;
+    border: rgb(92, 91, 91) solid 1px;
+    box-sizing: border-box;
+    margin-top:100px;
+}
+
+h1{
+    
+    padding: 0px 10px;
+    margin-left: 15px;
+    color: rgb(70, 101, 238);
+}
+form{
+    display: block;
+    margin-left: 20px;
+    padding: 5px;
+}
+label{
+    display: block;
+    clear: right;
+    padding-right: 5px;
+    font-weight: bold;
+}
